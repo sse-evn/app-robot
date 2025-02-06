@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Polytech assistant</string>
+    <string name="Setting">Setting</string>
+    <string name="Message_sent">Sent</string>
+    <string name="welcome_mess">Добро пожаловать в ассистент!</string>
+</resources>
